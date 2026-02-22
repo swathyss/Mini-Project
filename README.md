@@ -123,13 +123,14 @@ The project identifies the most effective model for predicting purchase intentio
 - Pandas  
 - Matplotlib & Seaborn  
 - Scikit-learn  
-- Jupyter Notebook  
+- Google Colab 
 
 ---
 
-## ▶️ How to Run the Project
+# 🚀 How to Run the Project
 
-1. Install required libraries:
+- Open the notebook in **Google Colab**. 
+- Upload the dataset if required. 
+- Run all cells sequentially. 
+- Review model comparison results.
 
-```bash
-pip install numpy pandas matplotlib seaborn scikit-learn
